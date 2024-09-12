@@ -1,0 +1,20 @@
+[main ] INFO  com.laolang.jx.JucHelloApplication       - juc hello is running...
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callabel 线程启动
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callable 正在运行
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callable 正在运行
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callable 正在运行
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callable 正在运行
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务2
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务2
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callable 正在运行
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.SimpleCallable            - callable 线程运行完毕
+[ForkJoinPool.commonPool-worker-9] INFO  com.laolang.jx.JucHelloApplication       - callable 计算结果:15
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务2
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务2
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 主线程的某些任务2
+[main ] INFO  com.laolang.jx.JucHelloApplication       - 程序结束
